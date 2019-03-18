@@ -1,0 +1,18 @@
+/*____________Tipografies_____________*/
+
+/*_____________Colors_________________*/
+
+/*_____________Fondos_________________*/
+*{
+  background: #ffff;
+}
+/*_____________Imatges________________*/
+
+/*_____________Index__________________*/
+.div_centrar{
+  align-items: center;
+  text-align: center;
+  position: relative;
+  margin-top: 15%;
+  transition: translateY(-50%);
+}
